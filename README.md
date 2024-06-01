@@ -27,8 +27,10 @@ git checkout -b <Name_of_Branch> -> to create and checkout to branch with Name<N
 git mere <branch_Name> -> to merge branch<branch_Name> with current branch<br>
 git branch --delete <branchname> -> to delete perticular branch<br>
 
-- two ways to create .gitignore -
-1-> $null > <Name_of_file_with_extension>
+- two ways to create .gitignore -<br>
+1-> $null > <Name_of_file_with_extension><br>
 2-> direct make file in location with name ".gitignore"
 
 $null > <Name_of_file_with_extension> -> to create file in windows<br>
+
+git remote add origin "URL - https://github.com/dineshsutharxii/Learning-Git-And-Github.git" -> to connect with github<br>

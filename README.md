@@ -34,3 +34,6 @@ git branch --delete <branchname> -> to delete perticular branch<br>
 $null > <Name_of_file_with_extension> -> to create file in windows<br>
 
 git remote add origin "URL - https://github.com/dineshsutharxii/Learning-Git-And-Github.git" -> to connect with github<br>
+
+![image](https://github.com/dineshsutharxii/Learning-Git-And-Github/assets/32668364/b46a2655-622e-4f15-9eb6-6bc04c98a58c)
+

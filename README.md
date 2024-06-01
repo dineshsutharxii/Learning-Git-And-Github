@@ -9,7 +9,7 @@ git status -> to get the status of files (if file is commited or not)
 - STAGING CONCEPT: a stage between adding file and committing file. this where we hold the file before commiting to your repo.
 	- working directory -> git add(command) -> staging area -> git commit(command) -> repository
    
-git add <filename> -> adding modified/new files to staging area
+git add <filename> -> adding modified/new files to staging area<br>
 git add .(dot) -> all modified files comes into staging area
 git commit -m "commit message" -> to commit the modified files into repository
 
